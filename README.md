@@ -23,4 +23,4 @@ I build secure, scalable, cloud-native systems that balance performance, maintai
 ---
 
 ### 📫 Connect
-🌐 [Portfolio](https://www.supreetp.github.io) | [LinkedIn](https://www.linkedin.com/in/supreetpurthpli) | 📧 supreetpurthpli@gmail.com
+🌐  [LinkedIn](https://www.linkedin.com/in/supreetpurthpli) | 📧 supreetpurthpli@gmail.com
