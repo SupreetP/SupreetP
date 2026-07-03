@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Supreet Purthpli
 **AI & Software Engineer** specializing in **LangChain/LangGraph · Python · AWS · Data Engineering**
 
-I build production-grade agentic AI systems, GenAI data pipelines, and scalable data platforms — currently embedded in daily banking operations at JPMorgan Chase.
+I build production-grade agentic AI systems, GenAI data pipelines, and scalable data platforms — currently embedded in daily banking operations at JPMorgan Chase. 
+Most of my production work — ML pipelines, agentic AI systems, underwriting automation is proprietary to JPMC. Happy to walk through architectures.
 
 ---
 
